@@ -14,7 +14,7 @@ library(devtools)
 
 Then you can install the `ggideogram` package.
 ```r
-devtools::install_github('TickingClock1992/RIdeogram')
+devtools::install_github('dxsbiocc/ggideogram')
 ```
 
 
