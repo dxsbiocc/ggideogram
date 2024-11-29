@@ -1,0 +1,19 @@
+Package: ggideogram
+Title: What the Package Does (One Line, Title Case)
+Version: 0.1.0
+Authors@R: 
+    person("dengxsh", , , "920466915@qq.com", role = "cre")
+Description: gground is an extension package for ggplot2 that is used to generate ideogram graphics.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    dplyr,
+    ggplot2,
+    grid,
+    magrittr,
+    rlang
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
