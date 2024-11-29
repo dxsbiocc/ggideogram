@@ -1,4 +1,4 @@
-# gground <img src="vignettes/figures/ggideogram.png" width="140px" height="140px" align="right" style="padding-left:10px;background-color:white;"/>
+# ggideogram <img src="vignettes/figures/ggideogram.png" width="140px" height="140px" align="right" style="padding-left:10px;background-color:white;"/>
 
 ## Introduction
 
